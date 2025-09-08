@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: project-preclinical-in-vivo.jpg
+            filename: project-clinical-translation.jpg
             filters:
               brightness: 0.7
           position: center
