@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Preclinical High-Throughput Models
+        content: Scalable in vitro assays, imaging, and analytics to accelerate discovery and screening
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: project-preclinical-high-throughput.jpg
             filters:
               brightness: 0.7
           position: right
