@@ -10,7 +10,7 @@ last_name: Arnou
 superuser: true
 
 # Role/position
-role: Master's Student
+role: MS Student
 
 # Organizations/Affiliations
 organizations:
