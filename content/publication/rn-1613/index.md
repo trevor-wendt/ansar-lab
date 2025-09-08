@@ -1,0 +1,45 @@
+---
+title: Cerebrovascular gene expression in spontaneously hypertensive rats
+authors:
+- A. S. Grell
+- S. D. Frederiksen
+- L. Edvinsson
+- S. Ansar
+date: '2017-01-01'
+publishDate: '2025-09-08T10:28:11.209918Z'
+publication_types:
+- article-journal
+publication: '*PLoS One*'
+doi: 10.1371/journal.pone.0184233
+abstract: Hypertension is a hemodynamic disorder and one of the most important and
+  well-established risk factors for vascular diseases such as stroke. Blood vessels
+  exposed to chronic shear stress develop structural changes and remodeling of the
+  vascular wall through many complex mechanisms. However, the molecular mechanisms
+  involved are not fully understood. Hypertension-susceptible genes may provide a
+  novel insight into potential molecular mechanisms of hypertension and secondary
+  complications associated with hypertension. The aim of this exploratory study was
+  to identify gene expression differences in the middle cerebral arteries between
+  12-week-old male spontaneously hypertensive rats and their normotensive Wistar-Kyoto
+  rats using an Affymetrix whole-transcriptome expression profiling. Quantitative
+  PCR and western blotting were used to verify genes of interest. 169 genes were differentially
+  expressed in the middle cerebral arteries from hypertensive compared to normotensive
+  rats. The gene expression of 72 genes was decreased and the gene expression of 97
+  genes was increased. The following genes with a fold difference ≥1.40 were verified
+  by quantitative PCR; Postn, Olr1, Fas, Vldlr, Mmp2, Timp1, Serpine1, Mmp11, Cd34,
+  Ptgs1 and Ptgs2. The gene expression of Postn, Olr1, Fas, Vldlr, Mmp2, Timp1 and
+  Serpine1 and the protein expression of LOX1 (also known as OLR1) were significantly
+  increased in the middle cerebral arteries from spontaneously hypertensive rats compared
+  to Wistar-Kyoto rats. In conclusion, the identified genes in the middle cerebral
+  arteries from spontaneously hypertensive rats could be possible mediators of the
+  vascular changes and secondary complications associated with hypertension. This
+  study supports the selection of key genes to investigate in the future research
+  of hypertension-induced end-organ damage.
+tags:
+- Animals Blood Pressure Blotting
+- Western Body Weight Cerebral Arteries Gene Expression Profiling Hypertension Male
+  Oligonucleotide Array Sequence Analysis Polymerase Chain Reaction Rats Rats
+- Inbred WKY
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/28880918
+---

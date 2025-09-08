@@ -1,0 +1,38 @@
+---
+title: Contractile Responses in Spontaneously Hypertensive Rats after Transient Middle
+  Cerebral Artery Occlusion
+authors:
+- A. S. Grell
+- M. Mostajeran
+- L. Edvinsson
+- S. Ansar
+date: '2018-01-01'
+publishDate: '2025-09-08T10:28:11.217853Z'
+publication_types:
+- article-journal
+publication: '*Pharmacology*'
+doi: 10.1159/000481570
+abstract: Stroke is one of the leading causes of mortality and morbidity worldwide,
+  and few therapeutic treatments have shown beneficial effect clinically. One reason
+  for this could be the lack of risk factors incorporated into the preclinical stroke
+  research. We have previously demonstrated phenotypic receptor changes to be one
+  of the injurious mechanisms occurring after stroke but mostly in healthy rats. The
+  aim of this study was to investigate if hypertension has an effect on vasoconstrictive
+  receptor responses to endothelin 1, sarafotoxin 6c and angiotensin II after stroke
+  by inducing transient middle cerebral artery occlusion in spontaneously hypertensive
+  rats and Wistar-Kyoto rats using the wire-myograph. We demonstrated an increased
+  contractile response to endothelin 1 and extracellular potassium as well as an increased
+  carbachol-induced dilator response in the middle cerebral arteries from hypertensive
+  rats after stroke. This study demonstrates the importance of including risk factors
+  in experimental stroke research.
+tags:
+- Angiotensin II Animals Blood Pressure Carbachol Endothelin-1 Hypertension Infarction
+- Middle Cerebral Artery Male Middle Cerebral Artery Potassium Rats
+- Inbred SHR Rats
+- Inbred WKY Vasodilation Viper Venoms Endothelin 1 Hypertension Middle cerebral artery
+  occlusion Receptor Spontaneously hypertensive rats Vasoconstriction Wire-myograph
+  Wistar-Kyoto rats
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29190633
+---

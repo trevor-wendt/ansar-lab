@@ -1,0 +1,54 @@
+---
+title: Cerebrovascular ETB, 5-HT1B, and AT1 receptor upregulation correlates with
+  reduction in regional CBF after subarachnoid hemorrhage
+authors:
+- S. Ansar
+- P. Vikman
+- M. Nielsen
+- L. Edvinsson
+date: '2007-01-01'
+publishDate: '2025-09-08T10:28:11.154219Z'
+publication_types:
+- article-journal
+publication: '*Am J Physiol Heart Circ Physiol*'
+doi: 10.1152/ajpheart.00857.2007
+abstract: We hypothesize that cerebral ischemia leads to enhanced expression of endothelin
+  (ET), 5-hydroxytryptamine (5-HT), and angiotensin II (ANG II) receptors in the vascular
+  smooth muscle cells. Our aim is to correlate the upregulation of cerebrovascular
+  receptors and the underlying molecular mechanisms with the reduction in regional
+  and global cerebral blood flow (CBF) after subarachnoid hemorrhage (SAH). SAH was
+  induced by injecting 250 microl blood into the prechiasmatic cistern in rats. The
+  cerebral arteries were removed 0, 1, 3, 6, 12, 24, and 48 h after the SAH for functional
+  and molecular studies. The contractile responses to ET-1, 5-carboxamidotryptamine
+  (5-CT), and ANG II were investigated with myograph. The receptor mRNA and protein
+  levels were analyzed by quantitative real-time PCR and immunohistochemistry, respectively.
+  In addition, regional and global CBFs were measured by an autoradiographic method.
+  As a result, SAH resulted in enhanced contractions to ET-1 and 5-CT. ANG II [via
+  ANG II type 1 (AT(1)) receptors] induced increased contractile responses [in the
+  presence of the ANG II type 2 (AT(2)) receptor antagonist PD-123319]. In parallel
+  the ET(B), 5-HT(1B), and AT(1) receptor, mRNA and protein levels were elevated by
+  time. The regional and global CBF showed a successive reduction with time after
+  SAH. In conclusion, the results demonstrate for the first time that SAH induces
+  the upregulation of ET(B), 5-HT(1B), and AT(1) receptors in a time-dependent manner
+  both at functional, mRNA, and protein levels. These changes occur in parallel with
+  a successive decrease in CBF. Thus there is a temporal correlation between the changes
+  in receptor expression and CBF reduction, suggesting a linkage.
+tags:
+- Angiotensin II Animals Autoradiography Cerebral Arteries Cerebrovascular Circulation
+  Disease Models
+- Animal Dose-Response Relationship
+- Drug Endothelin-1 Immunohistochemistry Male Muscle
+- Smooth
+- Vascular Polymerase Chain Reaction RNA
+- Messenger Rats Rats
+- Sprague-Dawley Receptor
+- Angiotensin
+- Type 1 Receptor
+- Endothelin B Receptor
+- Serotonin
+- 5-HT1B Serotonin Subarachnoid Hemorrhage Time Factors Up-Regulation Vasoconstriction
+  Vasoconstrictor Agents
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/17873013
+---

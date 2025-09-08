@@ -1,0 +1,40 @@
+---
+title: 'Sodium-23 magnetic resonance imaging during and after transient cerebral ischemia:
+  multinuclear stroke protocols for double-tuned (23)Na/(1)H resonator systems'
+authors:
+- F. Wetterling
+- S. Ansar
+- E. Handwerker
+date: '2012-01-01'
+publishDate: '2025-09-08T10:28:11.327883Z'
+publication_types:
+- article-journal
+publication: '*Phys Med Biol*'
+doi: 10.1088/0031-9155/57/21/6929
+abstract: 'A double-tuned ²³Na/¹H resonator system was developed to record multinuclear
+  MR image data during and after transient cerebral ischemia. ¹H-diffusion-, (¹H perfusion,
+  ¹H T₂-, ¹H arterial blood flow- and ²³Na spin density-weighted images were then
+  acquired at three time points in a rodent stroke model: (I) during 90 min artery
+  occlusion, (II) directly after arterial reperfusion and (III) one day after arterial
+  reperfusion. Normal ²³Na was detected in hypoperfused stroke tissue which exhibited
+  a low ¹H apparent diffusion coefficient (ADC) and no changes in ¹H T₂ relaxation
+  time during transient ischemia, while ²³Na increased and ADC values recovered to
+  normal values directly after arterial reperfusion. For the first time, a similar
+  imaging protocol was set-up on a clinical 3T MRI site in conjunction with a commercial
+  double-tuned ¹H/²³Na birdcage resonator avoiding a time-consuming exchange of resonators
+  or MRI systems. Multinuclear ²³Na/¹H MRI data sets were obtained from one stroke
+  patient during both the acute and non-acute stroke phases with an aquisition time
+  of 22 min. The lesion exhibiting low ADC was found to be larger compared to the
+  lesion with high ²³Na at 9 h after symptom onset. It is hoped that the presented
+  pilot data demonstrate that fast multinuclear ²³Na/¹H MRI preclinical and clinical
+  protocols can enable a better understanding of how temporal and regional MRI parameter
+  changes link to pathophysiological variations in ischemic stroke tissue.'
+tags:
+- Animals Cerebrovascular Circulation Hydrogen Infarction
+- Middle Cerebral Artery Ischemic Attack
+- Transient Magnetic Resonance Imaging Male Rats Rats
+- Wistar Sodium Isotopes
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/23044614
+---

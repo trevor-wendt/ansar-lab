@@ -1,0 +1,48 @@
+---
+title: Comparison of MEK/ERK pathway inhibitors on the upregulation of vascular G-protein
+  coupled receptors in rat cerebral arteries
+authors:
+- H. Sandhu
+- S. Ansar
+- L. Edvinsson
+date: '2010-01-01'
+publishDate: '2025-09-08T10:28:11.296259Z'
+publication_types:
+- article-journal
+publication: '*Eur J Pharmacol*'
+doi: 10.1016/j.ejphar.2010.06.053
+abstract: 'Organ culture is an in vitro method for investigating cellular mechanisms
+  involved in upregulation of vasocontractile G-protein coupled receptors. We hypothesize
+  that mitogen-activated-protein kinase (MEK) and/or extracellular-signal-regulated
+  kinase (ERK) specific inhibitors will attenuate the G-protein coupled receptor expression
+  following organ culture. Rat cerebral arteries were incubated 48h in the presence
+  of MEK/ERK specific inhibitors U0126, PD98059, SL327, or AG126 for different time
+  periods. Contractile responses by activation of endothelin receptor type A and type
+  B, serotonin receptor 5-HT(1B), prostanoid TP receptor, and angiotensin II receptor
+  type 1 and type 2 were investigated. Results were verified by measurement of mRNA
+  with real time PCR and by protein immunohistochemistry. Organ culture induced transcriptional
+  upregulation of endothelin ET(B) receptor and of serotonin 5-HT(1B) receptor on
+  translational level and increased respective contractions. The prostanoid TP receptor
+  mediated contraction curve was left-wards shifted by organ culture. Organ culture
+  was associated with elevated pERK1/2 in the vascular smooth muscle cells: the MEK1/2
+  inhibitor U0126 attenuated the endothelin ET(B) receptor mediated contraction at
+  post-translational level or by changing the receptor affinities. The serotonin 5-HT(1B)
+  receptor and prostanoid TP receptor mediated contractions were abolished by U0126.
+  Administration of U0126 6h after start of incubation blocked the receptor upregulation.
+  In conclusion, MEK specific inhibitor U0126 is a potent inhibitor of G-protein coupled
+  receptor alteration seen during organ culture. Given the ability to inhibit G-protein
+  coupled receptor alteration at the clinically relevant time-point 6h post incubation
+  makes it an attractive therapeutic agent for in vivo studies.'
+tags:
+- Animals Extracellular Signal-Regulated MAP Kinases Male Middle Cerebral Artery Mitogen-Activated
+  Protein Kinases Organ Culture Techniques Polymerase Chain Reaction RNA
+- Messenger Rats Rats
+- Sprague-Dawley Receptor
+- Endothelin B Receptor
+- Serotonin
+- 5-HT1B Receptors
+- Thromboxane Time Factors Up-Regulation
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20615400
+---
