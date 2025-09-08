@@ -1,0 +1,52 @@
+---
+title: Transcriptome profiling revealed early vascular smooth muscle cell gene activation
+  following focal ischemic stroke in female rats - comparisons with males
+authors:
+- M. Rehnström
+- S. D. Frederiksen
+- S. Ansar
+- L. Edvinsson
+date: '2020-01-01'
+publishDate: '2025-09-08T10:28:11.287819Z'
+publication_types:
+- article-journal
+publication: '*BMC Genomics*'
+doi: 10.1186/s12864-020-07295-2
+abstract: Women account for 60% of all stroke deaths and are more often permanently
+  disabled than men, despite their higher observed stroke incidence. Considering the
+  clinical population affected by stroke, an obvious drawback is that many pre-clinical
+  and clinical studies only investigate young males. To improve therapeutic translation
+  from bench to bedside, we believe that it is advantageous to include both sexes
+  in experimental models of stroke. The aims of this study were to identify early
+  cerebral vascular responses to ischemic stroke in females, compare the differential
+  gene expression patterns with those seen in males, and identify potential new therapeutic
+  targets.|Transient middle cerebral artery occlusion (tMCAO) was used to induce stroke
+  in both female and male rats, the middle cerebral arteries (MCAs) were isolated
+  3 h post reperfusion and RNA was extracted. Affymetrix whole transcriptome expression
+  profiling was performed on female (n = 12) MCAs to reveal differentially expressed
+  genes. In total, 1076 genes had an increased expression and 879 genes a decreased
+  expression in the occluded MCAs as compared with the control MCAs from female rats.
+  An enrichment of genes related to apoptosis, regulation of transcription, protein
+  autophosphorylation, inflammation, oxidative stress, and tissue repair and recovery
+  were seen in the occluded MCA. The high expression genes chosen for qPCR verification
+  (Adamts4, Olr1, JunB, Fosl1, Serpine1, S1pr3, Ccl2 and Socs3) were all shown to
+  be upregulated in the same manner in both females and males after tMCAO (p < 0.05;
+  n = 23). When comparing the differentially expressed genes in female MCAs (occluded
+  and non-occluded) with our previous findings in males after tMCAO, a total of 297
+  genes overlapped (all groups had 32 genes in common).|The cascades of processes
+  initiated in the vasculature following reperfusion are complex. Dynamic gene expression
+  alterations were observed in the occluded MCAs, and to a less pronounced degree
+  in the non-occluded MCAs. Dysregulation of inflammation and blood-brain barrier
+  breakdown are possible pharmacological targets. The sample of genes (< 1% of the
+  differentially expressed genes) validated for this microarray did not reveal any
+  sex differences. However, sex differences might be observed for other gene targets.
+tags:
+- Animals Brain Ischemia Female Gene Expression Profiling Ischemic Stroke Male Muscle
+- Smooth
+- Vascular Rats Stroke Transcriptional Activation Endothelial function Female rats
+  Focal cerebral ischemia Gene regulation Inflammation Pathway analysis Sex differences
+  Transcription factors Transcriptomics mRNA
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/33297959
+---

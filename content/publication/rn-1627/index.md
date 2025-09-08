@@ -1,0 +1,40 @@
+---
+title: 'Validation of a stroke model in rat compatible with rt-PA-induced thrombolysis:
+  new hope for successful translation to the clinic'
+authors:
+- K. Arkelius
+- D. Vivien
+- C. Orset
+- S. Ansar
+date: '2020-01-01'
+publishDate: '2025-09-08T10:28:11.170465Z'
+publication_types:
+- article-journal
+publication: '*Sci Rep*'
+doi: 10.1038/s41598-020-69081-0
+abstract: The recent clinical trial (DAWN) suggests that recanalization treatment
+  may be beneficial up to 24 h after stroke onset, thus re-opening avenues for development
+  of new therapeutic strategies. Unfortunately, there is a continuous failure of drugs
+  in clinical trials and one of the major reasons proposed for this translational
+  roadblock is the animal models. Therefore, the purpose of this study was to validate
+  a new thromboembolic stroke rat model that mimics the human pathology, and that
+  can be used for evaluating new strategies to save the brain in conditions compatible
+  with recanalization. Stroke was induced by injection of thrombin into the middle
+  cerebral artery. Recombinant tissue-type plasminogen activator (rt-PA) or saline
+  was administrated at 1 h/4 h after stroke onset, and outcome was evaluated after
+  24 h. Induced ischemia resulted in reproducible cortical brain injuries causing
+  a decrease in neurological function 24 h after stroke onset. Early rt-PA treatment
+  resulted in recanalization, reduced infarct size and improved neurological functions,
+  while late rt-PA treatment showed no beneficial effects and caused hemorrhagic transformation
+  in 25% of the rats. This validated and established model's resemblance to human
+  ischemic stroke and high translational potential, makes it an important tool in
+  the development of new therapeutic strategies for stroke.
+tags:
+- Animals Brain Disease Models
+- Animal Fibrinolytic Agents Magnetic Resonance Imaging Male Middle Cerebral Artery
+  Rats Rats
+- Wistar Stroke Thromboembolism Tissue Plasminogen Activator
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/32699371
+---
