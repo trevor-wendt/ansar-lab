@@ -8,7 +8,7 @@ sections:
     content:
       title: |
         ANSAR LAB
-        Cerebrovascular Biology • Clinical Translational • Neurovascular Disease
+        Applied Neurovascular Research
       image:
         filename: welcome.jpg
       text: |
