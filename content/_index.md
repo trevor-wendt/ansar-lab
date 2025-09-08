@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ANSAR LAB
+        Cerebrovascular Biology - Clinical Translational - Neurovascular Disease - Nanomedicine - Environmental Health
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Ansar Lab is committed to advancing our understanding of the cerebrovasculature, with a central focus on the Blood-Brain-Barrier (BBB) as a critical regulator of brain health and disease. Our research integrates molecular, cellular, and systems-level approaches to dissect mechanisms of cerebrovascular injury and repair, spanning models of ischemic stroke, neurodegeneration, and environmental exposures. Every project in the lab converges on the BBB as a unifying axis - whether through the development of nanomedicine-based therapeutics, in-depth analysis of cerebrovascular biology, or predictive modeling of pollutant-induced injury. By fostering collaborations with international clinical and preclinical partners, we aim to bridge fundamental mechanistic discoveries with translational applications, ultimately driving innovation in diagnostics and therapeutics for cerebrovascular and neurological disorders.
   
   - block: collection
     content:
