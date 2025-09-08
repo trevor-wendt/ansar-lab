@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Preclinical High-Throughput Models
-        content: Scalable in vitro assays, imaging, and analytics to accelerate discovery and screening
+        content: 'Scalable in-vitro assays, imaging, and analytics to accelerate discovery and screening'
         align: center
         background:
           image:
@@ -18,22 +18,32 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Preclinical In-Vivo
+        content: 'Robust in-vivo models of cerebrovascular disease compatible for in-depth mechanistic and functional queries'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: project-preclinical-in-vivo.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Clinical Translation
+        content: 'Bridging preclinical insights into translational frameworks, biomarkers, prediction models, and trial-ready endpoints'
+        align: left
+        background:
+          image:
+            filename: project-preclinical-in-vivo.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#444'
+      - title: Clinical
+        content: 'Clinical studies and real-world evidence to validate safety, effectiveness, and equity of interventions as well as identify future biomarkers for therapeutic intervention and monitoring'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: project-clinical.jpg
             filters:
               brightness: 0.5
           position: center
