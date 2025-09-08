@@ -9,13 +9,13 @@ sections:
     content:
       title: |
         ANSAR LAB
-        Cerebrovascular Biology - Clinical Translational - Neurovascular Disease - Nanomedicine - Environmental Health
+        Cerebrovascular Biology - Clinical Translational - Neurovascular Disease
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The Ansar Lab is committed to advancing our understanding of the cerebrovasculature, with a central focus on the Blood-Brain-Barrier (BBB) as a critical regulator of brain health and disease. Our research integrates molecular, cellular, and systems-level approaches to dissect mechanisms of cerebrovascular injury and repair, spanning models of ischemic stroke, neurodegeneration, and environmental exposures. By fostering collaborations with international clinical and preclinical partners, we aim to bridge fundamental mechanistic discoveries with translational applications, ultimately driving innovation in diagnostics and therapeutics for cerebrovascular and neurological disorders.
+        The Ansar Lab is committed to advancing our understanding of the cerebrovasculature, integrating multifaceted molecular, cellular, and systems-level approaches. By fostering collaborations with international clinical and preclinical partners, we aim to bridge fundamental mechanistic discoveries with translational applications, ultimately driving innovation in diagnostics and therapeutics for cerebrovascular and neurological disorders.
   
   - block: collection
     content:
