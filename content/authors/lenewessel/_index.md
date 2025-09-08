@@ -10,7 +10,7 @@ last_name: Wessel
 superuser: true
 
 # Role/position
-role: MSc Student
+role: MS Student
 
 # Organizations/Affiliations
 organizations:
