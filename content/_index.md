@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Research Projects
       subtitle:
       text:
       count: 5
@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications & Preprints
       text: ""
       count: 5
       filters:
