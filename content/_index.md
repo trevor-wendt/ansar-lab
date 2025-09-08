@@ -25,67 +25,40 @@ sections:
         - title: "Preclinical High-Throughput"
           content: "Scalable in-vitro assays, imaging, and analytics to accelerate discovery and screening"
           align: left
-          link:
-            text: "Learn more →"
-            url: "/tour#preclinical-high-throughput"
-          background:
-            image:
-              filename: project-preclinical-high-throughput.jpg
-              filters:
-                brightness: 0.75
-            parallax: false
-            position: center
-            size: cover
+          image:
+            filename: project-preclinical-high-throughput.jpg
+            focal_point: Center
+            alt_text: High-throughput BBB screening
 
-        - title: "Preclinical In Vivo"
-          content: "Robust in-vivo models of cerebrovascular disease compatible for in-depth mechanistic and functional queries"
+        - title: "Preclinical In-Vivo"
+          content: "In-vivo models of cerebrovascular disease"
           align: left
-          link:
-            text: "Learn more →"
-            url: "/tour#preclinical-in-vivo"
-          background:
-            image:
-              filename: project-preclinical-in-vivo.jpg
-              filters:
-                brightness: 0.75
-            parallax: false
-            position: center
-            size: cover
+          image:
+            filename: project-preclinical-in-vivo.jpg
+            focal_point: Center
+            alt_text: Rodent Models
 
         - title: "Clinical Translation"
-          content: "Bridging preclinical insights into translational frameworks, biomarkers, prediction models, and trial-ready endpoints"
+          content: "Biomarkers, exposure modeling, and patient-linked outcomes."
           align: left
-          link:
-            text: "Learn more →"
-            url: "/tour#clinical-translation"
-          background:
-            image:
-              filename: project-clinical-translation.jpg
-              filters:
-                brightness: 0.75
-            parallax: false
-            position: center
-            size: cover
+          image:
+            filename: project-clinical-translation.jpg
+            focal_point: Center
+            alt_text: Clinical translation workflow
 
         - title: "Clinical Studies"
-          content: "Clinical studies and real-world evidence to validate safety, effectiveness, and equity of interventions as well as identify future biomarkers for therapeutic intervention and monitoring"
+          content: "Clinical studies and real-world evidence to validate interventions and identify biomarkers."
           align: left
-          link:
-            text: "Learn more →"
-            url: "/tour#clinical"
-          background:
-            image:
-              filename: project-clinical.jpg
-              filters:
-                brightness: 0.75
-            parallax: false
-            position: center
-            size: cover
+          image:
+            filename: project-clinical.jpg
+            focal_point: Center
+            alt_text: Clinical studies
     design:
       height: "420px"
       spacing:
         padding: ["16px","0","24px","0"]
       css_class: slider-compact
+
 
   - block: collection
     content:
