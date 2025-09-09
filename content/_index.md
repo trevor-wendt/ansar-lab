@@ -8,7 +8,8 @@ sections:
     content:
       title: |
         ANSAR LAB
-         Applied Neurovascular Research
+        <br>
+        Applied Neurovascular Research
       image:
         filename: welcome.jpg
       text: |
